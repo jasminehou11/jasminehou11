@@ -1,4 +1,9 @@
-### Hi there 👋 I am a Hou.
+### Hello! 👋 
+
+### I'm a second-year student at the University of Michigan studying computer science. I love league of legends and teamfight tactics. Can't wait for the new patch!!!
+
+
+
 
 <!--
 **jasminehou11/jasminehou11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
