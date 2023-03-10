@@ -9,7 +9,7 @@
 ### Let's talk!
 
 * [LinkedIn](https://www.linkedin.com/in/jasmine-hou1/)
-* [Spotify](https://open.spotify.com/user/ke17fmzadn03r8cr328qxoguo?si=53c747dc0bf740de)
+* [Spotify](https://open.spotify.com/user/ke17fmzadn03r8cr328qxoguo)
 * [Email](mailto:jsmnhou@gmail.com)
 
 
