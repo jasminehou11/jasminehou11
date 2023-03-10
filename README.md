@@ -12,6 +12,15 @@
 * [Spotify](https://open.spotify.com/user/ke17fmzadn03r8cr328qxoguo)
 * [Email](mailto:jsmnhou@gmail.com)
 
+### Some Tools I Use
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="25" height="25" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=jsmnhou&show_icons=true&count_private=true" alt="jsmnhou" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=jsmnhou.jsmnhou" alt="visitors"></p>
 
 <!--
 **jasminehou11/jasminehou11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
