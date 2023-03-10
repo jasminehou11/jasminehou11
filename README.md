@@ -2,7 +2,15 @@
 
 ### I'm a second-year student at the University of Michigan studying computer science. I love league of legends and teamfight tactics. Can't wait for the new patch!!!
 
+------
 
+ <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZiNTFiNTQ3ZmQwMTc5NGNiZmE2MGI5MThkMDgzOWMyZmQ0ZDBkNSZjdD1z/lnyTxlW69yhGNaHcwr/giphy.gif">
+
+### Let's talk!
+
+* [LinkedIn](https://www.linkedin.com/in/jasmine-hou1/)
+* [Spotify](https://open.spotify.com/user/ke17fmzadn03r8cr328qxoguo?si=53c747dc0bf740de)
+* [Email](mailto:jsmnhou@gmail.com)
 
 
 <!--
