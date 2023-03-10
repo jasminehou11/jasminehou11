@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=jsmnhou&show_icons=true&count_private=true" alt="jsmnhou" />
+<img src="https://github-readme-stats.vercel.app/api?username=jsmnhou&show_icons=true&count_private=true&theme=dark" alt="jsmnhou" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=jsmnhou.jsmnhou" alt="visitors"></p>
 
 <!--
