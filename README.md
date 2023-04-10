@@ -32,9 +32,9 @@
 ---
 ### About Me:
 
-I'm Jasmine, and I'm currently a second-year student at the University of Michigan studying computer science! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hi, I'm Jasmine and I'm currently a second-year student at the University of Michigan studying computer science. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Click [here](https://github.com/jsmnhou/jsmnhou/raw/main/resume.pdf) for my resume.
+Click [here](https://github.com/jsmnhou/jsmnhou/raw/main/resume.pdf) for my resume!
 
 ---
 ### Some Tools I Use:
