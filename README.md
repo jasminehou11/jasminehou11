@@ -1,5 +1,9 @@
+<h1 align="center">hello! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
+
 <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZiNTFiNTQ3ZmQwMTc5NGNiZmE2MGI5MThkMDgzOWMyZmQ0ZDBkNSZjdD1z/lnyTxlW69yhGNaHcwr/giphy.gif" width="100"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZiNTFiNTQ3ZmQwMTc5NGNiZmE2MGI5MThkMDgzOWMyZmQ0ZDBkNSZjdD1z/lnyTxlW69yhGNaHcwr/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -22,12 +26,10 @@
 
 </p>
 
-<h1 align="center">hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
 I'm Jasmine, and I'm a second-year student at the University of Michigan studying computer science. 
 
-------
 
 
 ### Some Tools I Use:
