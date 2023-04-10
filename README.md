@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jasmine-hou1/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jasmine-hou1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jsmnhou@gmail.com" target="_blank">
+  <a href="mailto:jsmnhou@umich.edu" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
   <a href="https://open.spotify.com/user/ke17fmzadn03r8cr328qxoguo" target="_blank">
