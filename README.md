@@ -1,6 +1,6 @@
-<h1 align="center">hello! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</h1>
+<p align="center" style="font-weight:bold; font-size:30px">hello! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
+</p>
 
 <div id="header" align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZiNTFiNTQ3ZmQwMTc5NGNiZmE2MGI5MThkMDgzOWMyZmQ0ZDBkNSZjdD1z/lnyTxlW69yhGNaHcwr/giphy.gif" width="150"/>
