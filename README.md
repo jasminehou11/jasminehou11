@@ -26,14 +26,12 @@
 </p>
 
 
-### about me:
+### About Me:
 
 I'm Jasmine, and I'm currently a second-year student at the University of Michigan studying computer science! 
 
-resume download:
-
 ---
-### some tools i use:
+### Some Tools I Use:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="css3" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
