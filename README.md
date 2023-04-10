@@ -3,17 +3,17 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jasmine-hou1/)">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/jasmine-hou1/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:jsmnhou@gmail.com">
+  <a href="mailto:jsmnhou@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/>
   </a>
-  <a href="https://open.spotify.com/user/ke17fmzadn03r8cr328qxoguo">
+  <a href="https://open.spotify.com/user/ke17fmzadn03r8cr328qxoguo" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
-  <a href="https://myanimelist.net/profile/ppozzu">
-    <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MAL Badge"/>
+  <a href="https://myanimelist.net/profile/ppozzu" target="_blank">
+    <img src="https://img.shields.io/badge/MAL-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MAL Badge"/>
   </a>
 </div>
 
