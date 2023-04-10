@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 
-
 <p align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZiNTFiNTQ3ZmQwMTc5NGNiZmE2MGI5MThkMDgzOWMyZmQ0ZDBkNSZjdD1z/lnyTxlW69yhGNaHcwr/giphy.gif" width="150"/>
 </p>
@@ -33,7 +32,7 @@
 ---
 ### About Me:
 
-I'm Jasmine, and I'm currently a second-year student at the University of Michigan studying computer science! 
+I'm Jasmine, and I'm currently a second-year student at the University of Michigan studying computer science! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 Click [here](https://github.com/jsmnhou/jsmnhou/raw/main/resume.pdf) for my resume.
 
