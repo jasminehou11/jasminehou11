@@ -46,3 +46,7 @@ here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="48" height="48" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="48" height="48" />
 </p>
+
+<p align="right">
+    <img src="pengu.png" width="120"/>
+</p>
