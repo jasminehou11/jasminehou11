@@ -1,14 +1,4 @@
-<div id="user-content-toc">
-  <ul>
-    <summary>
-      <h1 style="display: inline-block;">
-        hello!
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-      </h1>
-    </summary>
-  </ul>
-</div>
-
+<br />
 <p align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZiNTFiNTQ3ZmQwMTc5NGNiZmE2MGI5MThkMDgzOWMyZmQ0ZDBkNSZjdD1z/lnyTxlW69yhGNaHcwr/giphy.gif" width="150"/>
 </p>
@@ -32,27 +22,30 @@
     <img src="https://komarev.com/ghpvc/?username=jsmnhou&style=flat-square&color=blue" alt=""/>
 </p>
 
-<br />
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary>
+      <h3 style="display: inline-block;">
+        hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+        i'm jasmine, currently a second-year student at umich studying computer science. 
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34">
 
-### About Me:
+here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnhou/raw/main/resume.pdf&embedded=true) :)
+      </h3>
+    </summary>
+  </ul>
+</div>
 
-Hi, I'm Jasmine and I'm currently a second-year student at the University of Michigan studying computer science. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Click [here](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnhou/raw/main/resume.pdf&embedded=true) for my resume!
+<p float="left">
+  <img src="/github-metrics1.svg" align=top width = 50%/>
+  <img src="/github-metrics2.svg" align=top width = 48%/>
+</p>
 
-<br />
-
-### Some Tools I Use:
+### some tools i use:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="css3" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="40" height="40" />
-</p>
-
-<br />
-
-<p float="left">
-  <img src="/github-metrics1.svg" align=top width = 50%/>
-  <img src="/github-metrics2.svg" align=top width = 48%/>
 </p>
