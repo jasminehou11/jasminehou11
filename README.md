@@ -46,9 +46,15 @@ Click [here](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnho
 </p>
 
 ---
-<p align="left">
-  <img align="{left|right}" src="/github-metrics.svg" alt="Metrics">
-</p>
+<!-- <p align="left">
+  <img align="{left|right}" src="/github-metrics1.svg" alt="Metrics">
+</p> -->
+
+<div align="left">
+  <img src="/github-metrics1.svg" alt="Activity">
+  <img src="/github-metrics2.svg" alt="Recents">
+</div>
+
 
 <!-- 
 <div id="header" align="center">
