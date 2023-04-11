@@ -19,5 +19,8 @@ jobs:
           user: jsmnhou
           base: activity
           base_indepth: yes
-          template: classic
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
