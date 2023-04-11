@@ -39,7 +39,7 @@ here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou
   <img src="/github-metrics1.svg" align=top width = 50%/>
   <img src="/github-metrics2.svg" align=top width = 48%/>
 </p>
-
+<!-- 
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="css3" width="48" height="48" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48" />
@@ -48,7 +48,22 @@ here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou
 </p>
 
 <p>
-    <img align="left" src="poggles.png" width="80
-    "/>
+    <img align="left" src="poggles.png" width="80"/>
+    <img align="right" src="pengu.png" width="128" />
+</p> -->
+
+
+<p align="center">
+    <img align="left" src="poggles.png" width="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="css3" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="48" height="48" />
+    <img align="right" src="pengu.png" width="125" />
+</p>
+
+<!-- <p>
+    <img align="left" src="poggles.png" width="80"/>
     <img align="right" src="pengu.png" width="128" />
 </p>
+ -->
