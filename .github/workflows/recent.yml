@@ -1,4 +1,4 @@
-name: Metrics1
+name: Metrics2
 on:
   # Schedule daily updates
   schedule: [{cron: "0 6,9,12,15,18,21 * * *"}]
@@ -15,7 +15,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics1.svg
+          filename: github-metrics2.svg
           user: jsmnhou
-          base: activity
-          base_indepth: yes
+          plugin_activity: yes
+          plugin_activity_limit: 3
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
