@@ -1,4 +1,3 @@
-<br />
 <p align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZiNTFiNTQ3ZmQwMTc5NGNiZmE2MGI5MThkMDgzOWMyZmQ0ZDBkNSZjdD1z/lnyTxlW69yhGNaHcwr/giphy.gif" width="150"/>
 </p>
@@ -42,8 +41,8 @@ here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou
   <img src="/github-metrics2.svg" align=top width = 48%/>
 </p>
 
-### some tools i use:
-<p align="left">
+<br />
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="css3" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
