@@ -54,12 +54,12 @@ here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou
 
 
 <p align="center">
-    <img align="left" src="poggles.png" width="80"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="css3" width="48" height="48" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="48" height="48" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="48" height="48" />
-    <img align="right" src="pengu.png" width="125" />
+    <img align="left" src="poggles.png" width="76"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="css3" width="52" height="52" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="52" height="52" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="52" height="52" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="52" height="52" />
+    <img align="right" src="pengu.png" width="120" />
 </p>
 
 <!-- <p>
