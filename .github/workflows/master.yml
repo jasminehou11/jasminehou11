@@ -19,6 +19,7 @@ jobs:
           user: jsmnhou
           base: activity
           base_indepth: yes
+          config_display: columns
           plugin_activity: yes
           plugin_activity_limit: 3
           plugin_activity_days: 0
