@@ -48,6 +48,7 @@ here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou
 </p>
 
 <p>
-    <img align="left" src="poggles.png" width="150"/>
-    <img align="right" src="pengu.png" width="120" />
+    <img align="left" src="poggles.png" width="80
+    "/>
+    <img align="right" src="pengu.png" width="128" />
 </p>
