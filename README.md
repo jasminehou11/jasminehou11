@@ -35,16 +35,14 @@ here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou
   </ul>
 </div>
 
-
 <p float="left">
   <img src="/github-metrics1.svg" align=top width = 50%/>
   <img src="/github-metrics2.svg" align=top width = 48%/>
 </p>
 
-<br />
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="css3" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" alt="css3" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="48" height="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="48" height="48" />
 </p>
