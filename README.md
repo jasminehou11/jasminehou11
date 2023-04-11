@@ -47,7 +47,7 @@ Click [here](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnho
 
 ---
 <p align="left">
-  <img src="/github-metrics.svg" alt="Metrics" width="400">
+  <img src="/github-metrics.svg" alt="Metrics">
 </p>
 
 <!-- 
