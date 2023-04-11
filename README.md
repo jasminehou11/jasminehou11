@@ -1,10 +1,13 @@
-<!-- <h1 align="center">hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</h1> -->
-
-<h1> hello!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</h1>
+<div id="user-content-toc">
+  <ul>
+    <summary>
+      <h1 style="display: inline-block;">
+        hello!
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 <p align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZiNTFiNTQ3ZmQwMTc5NGNiZmE2MGI5MThkMDgzOWMyZmQ0ZDBkNSZjdD1z/lnyTxlW69yhGNaHcwr/giphy.gif" width="150"/>
@@ -29,14 +32,16 @@
     <img src="https://komarev.com/ghpvc/?username=jsmnhou&style=flat-square&color=blue" alt=""/>
 </p>
 
----
+<br />
+
 ### About Me:
 
 Hi, I'm Jasmine and I'm currently a second-year student at the University of Michigan studying computer science. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 Click [here](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnhou/raw/main/resume.pdf&embedded=true) for my resume!
 
----
+<br />
+
 ### Some Tools I Use:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="css3" width="40" height="40" />
@@ -45,12 +50,7 @@ Click [here](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnho
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="nginx" width="40" height="40" />
 </p>
 
----
-
-<!-- <div align="left">
-  <img src="/github-metrics1.svg" alt="Activity">
-  <img src="/github-metrics2.svg" alt="Recents">
-</div> -->
+<br />
 
 <p float="left">
   <img src="/github-metrics1.svg" align=top width = 50%/>
