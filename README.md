@@ -30,7 +30,7 @@
 <!--         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="34"> -->
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY3MGNmZmM4ZjI5NDI3NzJmZDk0MmYzMDE0YWQ0MGE1NTIzNDEyYSZjdD1z/5aYfJYohCSeYgtVlUj/giphy.gif" width="40">
 
-here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnhou/raw/main/resume.pdf&embedded=true) :)
+here is my [resume](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnhou/raw/main/resume.pdf&embedded=true)!
       </h3>
     </summary>
   </ul>
