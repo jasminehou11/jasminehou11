@@ -29,7 +29,7 @@
           i'm <a href="https://jasminehou.dev/">jasmine</a>, currently a second-year student at umich studying computer science. 
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY3MGNmZmM4ZjI5NDI3NzJmZDk0MmYzMDE0YWQ0MGE1NTIzNDEyYSZjdD1z/5aYfJYohCSeYgtVlUj/giphy.gif" width="40">
 
-click [here](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnhou/raw/main/Jasmine_Hou_Resume.pdf&embedded=true) for my resume!
+click [here](https://docs.google.com/gview?url=https://github.com/jsmnhou/jsmnhou/raw/main/Jasmine_Hou_Resume_latex.pdf&embedded=true) for my resume!
       </h3>
     </summary>
   </ul>
