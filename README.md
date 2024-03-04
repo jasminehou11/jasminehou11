@@ -29,8 +29,8 @@
 </div>
 
 <p float="left">
-  <img src="/github-metrics1.svg" align=top width = 50%/>
-  <img src="/github-metrics2.svg" align=top width = 48%/>
+<!--   <img src="/github-metrics1.svg" align=top width = 50%/> -->
+<!--   <img src="/github-metrics2.svg" align=top width = 48%/> -->
 </p>
 
 <p align="center">
